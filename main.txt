@@ -1,0 +1,24 @@
+From:
+    Sonali Walia
+    233 Mountainberry Road,
+    Brampton, ON, L6R 1W3.
+
+To: 
+    $to
+    $company_name
+    $full_address
+
+Dear $to,
+
+I am writing to express my sincere interest in the $position_name position $job_id at $company_name, as advertised on the careers page. With a robust background working with the Ministry of Attorney General - OCL coupled with exemplary communication skills and a proven track record in strategic coordination with the team and Deputy Legal Director, I am enthusiastic about the opportunity to contribute to your esteemed team.
+
+As highlighted in my attached resume, I bring extensive experience in coordinating comprehensive communication strategies and delivering exceptional client services. My proactive approach to identifying areas for improvement and implementing effective solutions aligns seamlessly with the responsibilities outlined in the job description. I am particularly impressed by $company_name's commitment to diversity, inclusion, accessibility, and anti-racism, and I am eager to contribute to fostering an equitable and inclusive work environment.
+
+I am confident that my blend of communication prowess, and leadership abilities make me a strong fit for the $position_name role. I am eager to leverage my skills and experiences to support the strategic objectives of $company_name.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to your team and am available for an interview at your earliest convenience. Please find my resume attached for your review.
+
+Yours sincerely,
+Sonali Walia
+
+References: available upon request.
