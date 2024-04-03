@@ -8,3 +8,5 @@ Usage: python main.py <to> <company_name> <department> <full_address> <position_
 
 install the following python modules:
 - fpdf
+
+requirements can be installed using pip3.
